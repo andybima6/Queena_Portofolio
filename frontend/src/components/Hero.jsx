@@ -113,7 +113,7 @@ export default function Hero({ started }) {
             <a
 
               data-testid="hero-download-cv"
-              href={`${process.env.PUBLIC_URL}/cv.pdf`}
+              href="/Queena_Sangalang_CV.pdf"
               download="Queena_Sangalang_CV.pdf"
               className="btn-ghost"
             >

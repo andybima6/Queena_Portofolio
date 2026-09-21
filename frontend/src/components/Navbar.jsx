@@ -99,7 +99,7 @@ export default function Navbar() {
           </button>
           <a
              data-testid="hero-download-cv"
-              href={`${process.env.PUBLIC_URL}/cv.pdf`}
+              href="/Queena_Sangalang_CV.pdf"
               download="Queena_Sangalang_CV.pdf"
             className="btn-primary hidden !px-5 !py-2.5 text-[13px] md:inline-flex"
           >
